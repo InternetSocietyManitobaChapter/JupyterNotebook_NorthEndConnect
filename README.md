@@ -1,12 +1,14 @@
 # JupyterNotebook_NorthEndConnect
-Data analysis work for research report
+Data analysis work for research report - This is the main file. The others are student work building to the main file.
+https://github.com/InternetSocietyManitobaChapter/JupyterNotebook_NorthEndConnect/blob/main/NEC_June_14_2023_data.ipynb
 
 # NorthEnd Internet Connectivity Project 2023
 
 NorthEnd Internet Speed Data Analysis
-Robertson College Practicum
-Authors: Olubunmi Adebiyi, Joel Templeman
-Last Updated: 03/25/2023 
+Robertson College Practicum Project
+Students: Olubunmi Adeniyi Adebiyi, Ugochukwu Chiji Enyinnaya, Ugochi Felicia Nwankwo, Muyiwa Wilson Aminu and Shanleigh Chartrand
+
+Last Updated: 05/16/2023 
 
 # Problem Statement
 How much meaningful Internet connectivity is available to residents of low income communities like the North End community of Winnipeg Manitoba is unknown. 
@@ -15,21 +17,21 @@ We do not know if the median internet speeds which we deem a measure of “Meani
 
 Ensuring meaningful connectivity in these communities which is defined as better quality internet connection requires understanding where they are at in terms of internet access quality and any associated factors that might contribute to the present state. Furthermore, an understanding of currently available data can help in designing actionable steps that can be recommended to policy makers to improve meaningful internet connectivity in these communities.
 
-Our goal in this North End community project is to dissect available data on internet connectivity and access to determine how much meaningful internet data is available to the residents and businesses in this community from the R2W area of the North End community of Winnipeg.
+Our goal in this North End Connect project is to dissect available data on internet connectivity and access to determine how much meaningful internet data is available to the residents and businesses in this community from the R2W area of the North End community of Winnipeg.
 
 In order to achieve our goal, we will explore the dataset to identify how much meaningful connectivity is available in the North End Community, specifically the R2W area, by how much meaningful connectivity has grown or declined, and draw insight from the data to draw up recommendations for relevant stakeholders.
 
 # Background 
 
-The Alliance for Affordable Internet (A4AI) has developed “Meaningful Connectivity” as a new global standard that measures not only if someone has accessed the internet, but the quality of connection they have (ref). 
+The Alliance for Affordable Internet (A4AI) has developed “Meaningful Connectivity” as a new global standard that measures not only if someone has accessed the internet, but the quality of connection they have (https://a4ai.org/meaningful-connectivity-a-new-standard-to-measure-internet-access/#:~:text=That's%20why%20the%20Alliance%20for,quality%20of%20connection%20they%20have.). 
 
-The quality of connection an internet user has depends on many factors such as having the right speed. Right speed refers to downloads speeds sufficient enough to allow access to multimedia and other applications that make up the full internet experience.
+The quality of connection an internet user has depends on many factors such as having the right speed. Right speed refers to downloads speeds sufficient enough to allow access to multimedia and other applications that make up the full internet experience. The CRTC currently deems that standard to be 50 Megabytes per second (MBps) download, 10 MBps upload, Jitter smaller or equal to 5 milliseconds, Latency smaller than or equal to 50 milliseconds, and packet loss smaller than or equal to 0.25%. 
 
 A second factor on which meaningful Internet connection is dependent is the use of an adequate device. Internet connection can be accomplished via different kinds of devices. Through the use of an adequate device, users can produce and consume content online. Adequate connection can be accomplished via mobile internet access or via more robust connections via Computers which may be a desktop or a Laptop.
 
-The level of meaningful connectivity in low income communities such as the R2W area of the North End community is unknown. In this study, we hope to explore if there is meaningful connectivity in the North End  community, if this has grown or declined over time, how the measures of meaningful connectivity in the R2W area are influenced by other factors among others.
+The level of meaningful connectivity in low income communities such as the R2W area of the North End community is currently unknown. In this study, we hope to explore if there is meaningful connectivity in the North End  community, if this has grown or declined over time, how the measures of meaningful connectivity in the R2W area are influenced by other factors among others.
 
-This work is a portion of a larger research project looking at internet connectivity in low-income urban populations. The North End of Winnipeg (specifically the R2W postal code prefix) is one of those areas. 
+This work is a portion of a larger research project looking at internet connectivity in low-income urban populations. The North End of Winnipeg (specifically the R2W postal code prefix) is one of those areas. Additional information regarding the Community Network project can be found at: northendconnect.ca 
 
 # Terminology:
 
@@ -45,9 +47,7 @@ Frequent connection: If a user can only connect to the internet every so often, 
 
 https://www.digitalinclusion.org/definitions/ 
 
-
 The digital divide is the gap between those who have affordable access, skills, and support to effectively engage online and those who do not. As technology constantly evolves, the digital divide prevents equal participation and opportunity in all parts of life, disproportionately affecting people of color, Indigenous peoples, households with low incomes, people with disabilities, people in rural areas, and older adults.
-
 
 Digital equity is a condition in which all individuals and communities have the information technology capacity needed for full participation in our society, democracy, and economy. Digital equity is necessary for civic and cultural participation, employment, lifelong learning, and access to essential services.
 
@@ -95,41 +95,30 @@ Internet society of Manitoba  Team: Team members who will contribute to differen
 
 # Timeline - Milestones
 
-
 Milestone
 Status
 Last Updated Date
 Project Start
 Ongoing
 
-
 Project requirements
 ongoing
-
 
 Data Preparation
 Completed
 
-
 Data Analysis
 Partly Completed 
 
-
 Final Report
-Not started
-
+In Progress
 
 Presentation to the Executive Team
 Not started
 
 
-
-
-Data Processing
-Dataset for the study is available at : https://github.com/InternetSocietyManitobaChapter/JupyterNotebook_NorthEndConnect
- 
 Data Assessment 
-Data comes from the available data set about internet connectivity and penetration in the NorthEnd community of Winnipeg, Manitoba. Data has been verified by the Internet Society of manitoba.(Might need to provide source and links to the data Source for ease of verification if further needed).
+Data comes from the available data set about internet connectivity and penetration in the NorthEnd community of Winnipeg, Manitoba. Data has been verified by the Internet Society of Manitoba. 
 
 
 Data Format.
