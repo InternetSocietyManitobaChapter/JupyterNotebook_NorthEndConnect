@@ -5,7 +5,9 @@ https://github.com/InternetSocietyManitobaChapter/JupyterNotebook_NorthEndConnec
 # NorthEnd Internet Connectivity Project 2023
 
 NorthEnd Internet Speed Data Analysis
+
 Robertson College Practicum Project
+
 Students: Olubunmi Adeniyi Adebiyi, Ugochukwu Chiji Enyinnaya, Ugochi Felicia Nwankwo, Muyiwa Wilson Aminu and Shanleigh Chartrand
 
 Last Updated: 05/16/2023 
